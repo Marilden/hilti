@@ -6,7 +6,7 @@
  * @subpackage Twenty_Thirteen
  * @since Twenty Thirteen 1.0
  */
-
+//Need some more comments dammit!
 get_header(); ?>
 <div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
